@@ -10,11 +10,17 @@
 
 # 使用方法
   python weakpass_scan.py [type] -i [host] -p [port] -o [timeout] -t [thread]
+  
   type: 必选项，ssh or postgresql or redis or mysql or mongodb or ftp or sqlserver or mssql or dahua or hikvision
+  
   -i : 必选项，目标IP
+  
   -p : 必选项，目标端口
+  
   -o  : 超时时间，默认5秒
+  
   -t  : 线程数量，默认10
+  
 
 
   
