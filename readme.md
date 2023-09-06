@@ -2,7 +2,8 @@
 弱密码扫描工具
 
 支持对ssh、postgresql、Redis、MySQL、mongoDB、FTP、sqlserver(mssql)、Dahua(大华)、hikvision(海康威视)进行弱密码扫描，共9个类别；
-仓库代码参考：https://github.com/popmedd/SubDomainsResultDeal/blob/0303d95bd96b8f1e696c6534f686f30809763970/util/unauth/weakPassScan.py，在原代码的基础上增加到了9中弱密码扫描，并且修改了用户名-密码集合的使用方式，并将代码修改为python3
+仓库代码参考：https://github.com/popmedd/SubDomainsResultDeal/blob/0303d95bd96b8f1e696c6534f686f30809763970/util/unauth/weakPassScan.py
+在原代码的基础上增加到了9中弱密码扫描，并且修改了用户名-密码集合的使用方式，并将代码修改为python3
 
 # 软件声明
   本工具仅用于测试学习，不可对真实设备进行使用，后果自负；
